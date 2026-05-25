@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-charcoal: #121214;
+  --color-emerald: #10B981;
+  --color-crimson: #EF4444;
+}
+
+body {
+  background-color: var(--color-charcoal);
+  color: white;
+  font-family: sans-serif;
+}
